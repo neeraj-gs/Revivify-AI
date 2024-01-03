@@ -1,0 +1,20 @@
+Revivify AI
+
+    A Full Stack Project that allows you to regenrate blurry images into clear images
+    Wasting old images, no worries regenerate your Lurry images using AI.
+
+    Our AI can regenrate BLurry images into Clear images.
+
+    Tech Stack:
+        1.Next.js
+        2.React.js
+        3.Tailwind CSS
+        4.Prisma ORM
+        5.PostgreSQL
+        6.TypeScript
+        7.Redis [Rate Limiting]
+        8.Next-Auth
+        9.gfpgan face recognition algorithm.
+        
+
+
