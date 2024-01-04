@@ -4,6 +4,7 @@ Revivify AI
     Wasting old images, no worries regenerate your Lurry images using AI.
 
     Our AI can regenrate BLurry images into Clear images.
+    Revive and Relive with your Old memories.
 
     Tech Stack:
         1.Next.js
@@ -14,7 +15,10 @@ Revivify AI
         6.TypeScript
         7.Redis [Rate Limiting]
         8.Next-Auth
-        9.gfpgan face recognition algorithm.
+        9.gfpgan face restoratoin algorithn algorithm.[Replicate AI API]
+        10.upstash - remote redis databse to limit api calls 
+        11.React Uploader library that talsk to upload remote fiel storage service , images will recide here
+                
         
 
 
