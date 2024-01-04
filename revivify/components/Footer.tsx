@@ -14,7 +14,7 @@ const Footer = () => {
             <a href="" className="font-bold transition hover:text-black/50">Vercel{" "}</a>
         </div>
 
-        <div className="flex items-center gap-1">
+        <div className="flex items-center gap-1 pb-4 sm:pb-0">
             <Link href="/">Download Source Code</Link>{" | "}
             <p>Created With Love By Neeraj GS</p>
 
